@@ -1,1 +1,1 @@
-Kubernetes is a container orchestration platform that simplifies the operation of containerized applications. It provides self healing, auto scaling, 
+Kubernetes is a container orchestration platform that simplifies the operation of containerized applications. It provides self healing, auto scaling, networking, and much more.

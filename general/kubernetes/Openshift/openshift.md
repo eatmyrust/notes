@@ -1,0 +1,1 @@
+Openshift is a [[kubernetes]] distribution developed by [[Red Hat]]
