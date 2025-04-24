@@ -9,4 +9,5 @@ Pros
 - Agentless architecture
 - Application level metrics collection
 - Already used by openshift to export metrics and alert
-- Active monitoring protocol, 
+- Pull based protocol allows for collection of metrics and target health status
+- Highly scalable
