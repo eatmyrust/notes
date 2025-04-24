@@ -1,6 +1,6 @@
 Cons
 - Need a solution for host/service discovery since it is a pull model
-- Mn
+- Manual configuration of network metrics collection required
 
 Pros
 - Built to be deployed to k8s
