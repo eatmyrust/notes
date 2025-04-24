@@ -3,3 +3,10 @@ Cons
 - 
 
 Pros
+- Built to be deployed to k8s
+- First class integration with grafana
+- Highly customizable metrics, alerts, and visualizations
+- Agentless architecture
+- Application level metrics collection
+- Already used by openshift to export metrics and alert
+- Active monitoring protocol, 
